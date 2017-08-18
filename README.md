@@ -5,5 +5,5 @@
 ## Go version
 ### Build
 ```
-$ go build ./main.go
+$ go build -o auto-draft.exe .\go-version\main.go
 ```
